@@ -1,0 +1,11 @@
+nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 1.3rem;
+  margin-bottom: 25px;
+}
+h3 {
+  color:rgb(141, 20, 111);
+
+}
